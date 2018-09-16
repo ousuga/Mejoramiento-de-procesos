@@ -1,0 +1,13 @@
+variable	min	estandar	max	dia	mes	año	turno	inspector	pto_control	muestra	oac	medicion
+Apertura Anillo (POP) L-A	11	18	25	3	1	2015	A	1	ST20	999	6	18
+Apertura Anillo (POP) L-A	11	18	25	3	1	2015	A	1	ST20	999	6	18
+Apertura Anillo (POP) L-A	11	18	25	3	1	2015	A	1	ST20	999	6	18
+Apertura Anillo (POP) L-A	11	18	25	3	1	2015	A	1	ST20	999	6	18
+Apertura Anillo (POP) L-A	11	18	25	3	1	2015	A	1	ST20	999	6	18
+Apertura Anillo (POP) L-A	11	18	25	6	1	2015	B	1	ST20	999	42	20
+Apertura Anillo (POP) L-A	11	18	25	6	1	2015	B	1	ST20	999	42	19
+Apertura Anillo (POP) L-A	11	18	25	6	1	2015	B	1	ST20	999	42	20
+Apertura Anillo (POP) L-A	11	18	25	6	1	2015	B	1	ST20	999	42	20
+Apertura Anillo (POP) L-A	11	18	25	6	1	2015	B	1	ST20	999	42	19
+Apertura Anillo (POP) L-A	11	18	25	6	1	2015	B	1	ST20	999	42*	18
+Apertura Anillo (POP) L-A	11	18	25	6	1	2015	B	1	ST20	999	42*	18
