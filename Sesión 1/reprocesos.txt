@@ -1,0 +1,1001 @@
+"año"	"cargo"	"fase"	"lamina"	"referencia"	"uso"	"espesor"	"estaño"	"costo"
+"1"	2015	"Litográfica"	"PP"	"L"	"E208/211X207.5L"	"SALCH"	"16"	"PP"	1363.928155
+"2"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	55.89796
+"3"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211EO"	"ATUN"	"22"	"T"	759.7067975
+"4"	2015	"Corte"	"PP"	"OTROS"	"0.18X801X809"	"T4"	"NPI"	"T"	3.629312926676
+"5"	2015	"Litográfica"	"PP"	"L"	"C211X208L"	"PEGA"	"17"	"PP"	54.105875
+"6"	2015	"Comercialización"	"PT"	"R"	"C401/315X407R"	"ATUN"	"17"	"B"	17.6277280214
+"7"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X839X702.8"	"T5"	"NPI"	"PP"	58.704644099318
+"8"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X776"	"DR9"	"NPI"	"PP"	30.943376053352
+"9"	2015	"Sanitarios Soldadura"	"PP"	"R"	"C300X407R"	"SARD"	"16"	"PP"	25.306269561846
+"10"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	162.943191522078
+"11"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"NPI"	"PP"	7.3134375
+"12"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	164.899786
+"13"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	25.522967327296
+"14"	2015	"Corte"	"PP"	"TAPA"	"T307EO"	"ATUN"	"22"	"PP"	32.163137
+"15"	2015	"Comercialización"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	108.4709540214
+"16"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	0.126253560136
+"17"	2015	"Comercialización"	"PT"	"L"	"CR904X904X1309L"	"PEGA"	"22"	"B"	10.3
+"18"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	227.275503197759
+"19"	2015	"Comercialización"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	18.395774999614
+"20"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	111.576743560136
+"21"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X946.1"	"DR9"	"NPI"	"PP"	16.72486
+"22"	2015	"Comercialización"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	5.174340327296
+"23"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	75.483443327296
+"24"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	424.952994560136
+"25"	2015	"Bodega PT"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	523.54538
+"26"	2015	"Comercialización"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	35.268614327296
+"27"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X801X809"	"T4"	"NPI"	"T"	137.7642075
+"28"	2015	"Litográfica"	"PP"	"L"	"E307X109L"	"ATUN"	"NPI"	"PP"	60.7500315
+"29"	2015	"Litográfica"	"PP"	"L"	"E208/211X207.5L"	"SALCH"	"16"	"PP"	137.720274
+"30"	2015	"Tapas Bebidas"	"PT"	"TAPA"	"TC-P"	"PVC-FR"	"18"	"T"	764.0843875
+"31"	2015	"Litográfica"	"PP"	"L"	"C603X207L"	"ATUN"	"NPI"	"PP"	83.73553
+"32"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X946.1"	"DR9"	"NPI"	"PP"	10.385605726676
+"33"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	282.459070327296
+"34"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T315"	"ATUN"	"22"	"T"	0.090153327296
+"35"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	92.330956
+"36"	2015	"Litográfica"	"PT"	"TAPA"	"T401"	"PALMITO"	"22"	"T"	29.478411558357
+"37"	2015	"Litográfica"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	123.958107746429
+"38"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	451.358768466098
+"39"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	32.283966999614
+"40"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	89.797687873785
+"41"	2015	"Litográfica"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	86.387143
+"42"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T401"	"ATUN"	"22"	"T"	42.4896150393887
+"43"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	172.640594449099
+"44"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X207L"	"ATUN"	"22"	"A"	226.1240975
+"45"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	553.7781606622
+"46"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202/200X308R"	"SARDINA"	"17"	"B"	174.5544898125
+"47"	2015	"Litográfica"	"PP"	"TAPA"	"T603"	"ATUN"	"NPI"	"PP"	645.496577560136
+"48"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"T214"	"GANDUL"	"18"	"T"	0.116258999614
+"49"	2015	"Litográfica"	"PP"	"R"	"C300X407R"	"PALMITO"	"16"	"PP"	95.685868
+"50"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	349.399491
+"51"	2015	"Comercialización"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	7.0977730214
+"52"	2015	"Litográfica"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	3.4878295
+"53"	2015	"Litográfica"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	39.4262661868841
+"54"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	499.2820695
+"55"	2015	"Corte"	"PP"	"OTROS"	"0.26X782X864.1"	"T5"	"NPI"	"PP"	148.153243
+"56"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"SARDINA"	"18"	"T"	64.2094622726351
+"57"	2015	"Comercialización"	"PT"	"R"	"C202X308R"	"SARDINA"	"15"	"A"	19.5177290214
+"58"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C211/209X400R"	"VEGETALES"	"18"	"B"	1082.29345
+"59"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X833X795"	"T3"	"20"	"C"	139.549745
+"60"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"NPI"	"PP"	91.189246
+"61"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	100.563501327296
+"62"	2015	"Comercialización"	"PT"	"L"	"E307X105.5L"	"ATUN"	"16"	"T"	17.1577280214
+"63"	2015	"Litográfica"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	469.020112493156
+"64"	2015	"Litográfica"	"PP"	"R"	"C603X209L-408R"	"ATUN"	"22"	"PP"	21.15797
+"65"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	35.652585327296
+"66"	2015	"Corte"	"PP"	"TAPA"	"T307EO"	"ATUN"	"NPI"	"PP"	111.75512
+"67"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	124.675192327296
+"68"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	233.370275560136
+"69"	2015	"Litográfica"	"PT"	"TAPA"	"TC-P"	"PVC-FR"	"22"	"T"	2846.63663905459
+"70"	2015	"Comercialización"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	123.968694
+"71"	2015	"Comercialización"	"PT"	"R"	"C202X308R"	"SARDINA"	"15"	"A"	131.884438327296
+"72"	2015	"Litográfica"	"PP"	"L"	"E307X110.5L"	"ATUN"	"16"	"PP"	33.946261
+"73"	2015	"Litográfica"	"PT"	"L"	"E307X105.5L"	"ATUN"	"16"	"T"	23.392845327296
+"74"	2015	"Litográfica"	"PP"	"R"	"C300X407R"	"PALMITO"	"16"	"PP"	5.261344
+"75"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"SARDINA"	"18"	"T"	14.329999
+"76"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	77.14922921875
+"77"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X207L"	"ATUN"	"24"	"A"	106.502148
+"78"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	99.452885560136
+"79"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	213.8090406114
+"80"	2015	"Comercialización"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	93.8777220214
+"81"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	70.48574161
+"82"	2015	"Comercialización"	"PT"	"L"	"C401/315X208L"	"ATUN"	"17"	"B"	16.025186327296
+"83"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	72.8208155
+"84"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"15"	"B"	26.8855
+"85"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	118.112770015998
+"86"	2015	"Litográfica"	"PP"	"TAPA"	"TOVAL16"	"SARD"	"NPI"	"PP"	335.19383
+"87"	2015	"Corte"	"PP"	"OTROS"	"0.16X843X926.8"	"DR9"	"NPI"	"PP"	494.153834
+"88"	2015	"Litográfica"	"PP"	"L"	"E307X110.5L"	"ATUN"	"16"	"PP"	500.2859
+"89"	2015	"Litográfica"	"PT"	"TAPA"	"T401"	"PALMITO"	"22"	"T"	89.684902
+"90"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	587.743374749673
+"91"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	344.700424
+"92"	2015	"Litográfica"	"PP"	"TAPA"	"TC-PRY"	"PVC-F"	"18"	"PP"	370.280352
+"93"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	197.549750999614
+"94"	2015	"Litográfica"	"PP"	"R"	"C610X708R"	"PEGA"	"17"	"PP"	12.968595327296
+"95"	2015	"Comercialización"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	6.975579
+"96"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	256.6077280214
+"97"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X700R"	"CHAMPIÑONES"	"28"	"A"	75.350832
+"98"	2015	"Comercialización"	"PT"	"L"	"E307X113L"	"ATUN"	"16"	"T"	14.8777290214
+"99"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	140.97727393533
+"100"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T401"	"PALMITO"	"22"	"T"	20.63488794051
+"101"	2015	"Compras e Importaciones"	"PP"	"TAPA"	"TP28X17"	"PVCF-PET"	"NPI"	"PP"	20.491902
+"102"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X308L"	"ATUN"	"18"	"B"	1009.0357235
+"103"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"SARDINA"	"18"	"T"	60.2144811797282
+"104"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X756"	"DR9"	"NPI"	"PP"	85.201264053352
+"105"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	4600.92924407481
+"106"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T202"	"SARDINA"	"18"	"T"	294.2689328
+"107"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	186.965590556964
+"108"	2015	"Litográfica"	"PP"	"R"	"C603X209-408-600R"	"ATUN"	"24"	"PP"	53.664761
+"109"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	368.2302345
+"110"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202X308R"	"SARDINA"	"15"	"A"	473.046948
+"111"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X870X942"	"DR8"	"NPI"	"C"	669.454795
+"112"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	80.163892
+"113"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	74.2
+"114"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X945X927"	"DR8"	"NPI"	"C"	101.405795
+"115"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	31.862084327296
+"116"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202/200X308R"	"SARDINA"	"15"	"A"	102.72312
+"117"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X1037"	"DR8"	"NPI"	"C"	38.311974099318
+"118"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X945X927"	"DR8"	"NPI"	"C"	68.819667
+"119"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X892X1000.6"	"DR8"	"NPI"	"PP"	129.8546215
+"120"	2015	"Comercialización"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	1.406805999614
+"121"	2015	"Litográfica"	"PP"	"L"	"E211X106L"	"ATUN"	"16"	"PP"	53.15564
+"122"	2015	"Litográfica"	"PT"	"L"	"C603X209L"	"ATUN"	"24"	"A"	69.808394
+"123"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"16"	"PP"	47.687524
+"124"	2015	"Litográfica"	"PT"	"TAPA"	"T200"	"SARDINA"	"18"	"T"	398.50484103269
+"125"	2015	"Comercialización"	"PT"	"R"	"C603X600R"	"ATUN"	"24"	"A"	99.726254999614
+"126"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X705X1006"	"T4"	"NPI"	"PP"	107.745451
+"127"	2015	"Litográfica"	"PT"	"R"	"C202/200X308R"	"SARDINA"	"17"	"B"	172.069903
+"128"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	168.5263100214
+"129"	2015	"Sanitarios Embutidos"	"PT"	"R"	"EOVAL15R"	"SARDINA"	"18"	"T"	54.8365490214
+"130"	2015	"Comercialización"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	2.704865
+"131"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.21X903X917"	"T5"	"NPI"	"PP"	139.023060099318
+"132"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T401"	"ATUN"	"22"	"T"	0.090170327296
+"133"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	19.886861
+"134"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X207L"	"ATUN"	"24"	"C"	356.835407
+"135"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	90.3089625
+"136"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X801X809"	"T4"	"NPI"	"T"	144.707197
+"137"	2015	"Litográfica"	"PP"	"TAPA"	"T211"	"ATUN"	"20"	"PP"	154.115385
+"138"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"ATUN"	"17"	"B"	1945.66347456014
+"139"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X900X1037"	"DR8"	"20"	"C"	66.676114106704
+"140"	2015	"Servicios Generales"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"15"	"B"	20.746856
+"141"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	76.320368
+"142"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X207L"	"ATUN"	"22"	"A"	97.766116
+"143"	2015	"Litográfica"	"PP"	"TAPA"	"T603"	"ATUN"	"26"	"PP"	8.484808
+"144"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	213.50914161098
+"145"	2015	"Comercialización"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	172.673480327296
+"146"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T200"	"SARDINA"	"18"	"T"	1225.914019875
+"147"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	74.77540678125
+"148"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	120.1393850214
+"149"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	538.553086134784
+"150"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	100.420745327296
+"151"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	330.156663
+"152"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	251.5558036114
+"153"	2015	"Comercialización"	"PT"	"L"	"E211X200L"	"ATUN"	"16"	"T"	2.285139999614
+"154"	2015	"Sanitarios Soldadura"	"PT"	"OTROS"	"C404X414MF"	"DILUY"	"17"	"A"	134.479533
+"155"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	88.591082
+"156"	2015	"Comercialización"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	65.100125999614
+"157"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X724"	"DR9"	"NPI"	"C"	46.194817099318
+"158"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"TOVAL16"	"SARDINA"	"23"	"T"	0.1377800214
+"159"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	395.941997
+"160"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"SARDINA"	"18"	"T"	216.985220963771
+"161"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X926.8"	"DR9"	"NPI"	"PP"	368.064889
+"162"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X308L"	"ATUN"	"17"	"A"	253.3092465
+"163"	2015	"Litográfica"	"PP"	"R"	"C603X209-408-600R"	"ATUN"	"24"	"PP"	105.122609
+"164"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	40.3711016114
+"165"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X308L"	"ATUN"	"18"	"B"	87.964017
+"166"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	0.116259999614
+"167"	2015	"Comercialización"	"PT"	"R"	"C603X408R"	"ATUN"	"24"	"A"	2.699128327296
+"168"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"SARDINA"	"18"	"T"	113.449125731886
+"169"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	12.4467406114
+"170"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	18.8563789484174
+"171"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X946.1"	"DR9"	"NPI"	"PP"	11.0660955
+"172"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T401"	"ATUN"	"22"	"T"	2.8877280214
+"173"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"VEGETALES"	"16"	"B"	107.027263
+"174"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X870X942"	"DR8"	"NPI"	"C"	10.645461
+"175"	2015	"Corte"	"PP"	"OTROS"	"F211"	"PEGA."	"NPI"	"PP"	492.0803155
+"176"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X903X953"	"T5"	"NPI"	"PP"	167.4849145
+"177"	2015	"Sanitarios Soldadura"	"PT"	"OTROS"	"C404X414MF"	"DILUY"	"17"	"A"	90.898241440204
+"178"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"TOVAL16"	"SARDINA"	"23"	"T"	193.76
+"179"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	274.319505
+"180"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X996"	"DR8"	"NPI"	"C"	112.023056099318
+"181"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X402R"	"ATUN"	"22"	"A"	30.700956
+"182"	2015	"Litográfica"	"PP"	"R"	"C300X407R"	"PALMITO"	"16"	"PP"	124.957764
+"183"	2015	"Litográfica"	"PP"	"L"	"E307X109L"	"ATUN"	"NPI"	"PP"	44.275545
+"184"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	226.346629588875
+"185"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X833X795"	"T3"	"20"	"C"	85.372352099318
+"186"	2015	"Tapas Bebidas"	"PT"	"TAPA"	"TC-P"	"PVC-NM"	"22"	"T"	278.1104165
+"187"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	111.1264425
+"188"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	2.6674915295699
+"189"	2015	"Tapas Bebidas"	"PT"	"TAPA"	"TC-P"	"PVC-FR"	"18"	"T"	5.28836240868334
+"190"	2015	"Litográfica"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	651.127022
+"191"	2015	"Litográfica"	"PP"	"L"	"E307X110.5L"	"ATUN"	"16"	"PP"	49.703484
+"192"	2015	"Litográfica"	"PP"	"TAPA"	"T300"	"PALMITO"	"18"	"PP"	97.568536
+"193"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X817X736"	"DR8"	"NPI"	"PP"	10.182005726676
+"194"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X810X795"	"T3"	"NPI"	"C"	52.297322099318
+"195"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	393.463671406716
+"196"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	1005.058808
+"197"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X308L"	"ATUN"	"17"	"A"	251.427696
+"198"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	132.921876
+"199"	2015	"Comercialización"	"PT"	"R"	"EOVAL15R"	"SARDINA"	"18"	"T"	35.7951880214
+"200"	2015	"Litográfica"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	8.8916383548388
+"201"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"SARDINA"	"18"	"T"	453.861397117187
+"202"	2015	"Servicios Generales"	"PT"	"TAPA"	"T307EO"	"ATUN"	"21"	"T"	557.724801
+"203"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X945X927"	"DR8"	"NPI"	"C"	79.952524099318
+"204"	2015	"Comercialización"	"PT"	"TAPA"	"T211EO"	"ATUN"	"22"	"T"	36.793036
+"205"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	154.490592999614
+"206"	2015	"Comercialización"	"PT"	"R"	"C300/214X407R"	"SARDINA"	"16"	"B"	5.934891327296
+"207"	2015	"Comercialización"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	6.975914
+"208"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	267.264327432112
+"209"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202/200X308R"	"SARDINA"	"17"	"B"	437.2627505
+"210"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"GANDUL"	"16"	"B"	442.310691
+"211"	2015	"Litográfica"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	13.0942799318668
+"212"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"TOVAL16"	"SARDINA"	"23"	"T"	0.1377870214
+"213"	2015	"Comercialización"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	191.944795
+"214"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"21"	"PP"	642.301574
+"215"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	394.8328090214
+"216"	2015	"Litográfica"	"PP"	"R"	"C202X308R"	"SARD"	"16"	"PP"	58.516716
+"217"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"22"	"PP"	458.834673
+"218"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T202"	"SARDINA"	"18"	"T"	12.856952327296
+"219"	2015	"Litográfica"	"PT"	"L"	"E307X113L"	"ATUN"	"16"	"T"	139.743660721184
+"220"	2015	"Comercialización"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	317.672600327296
+"221"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X996"	"DR8"	"NPI"	"C"	50.542354053352
+"222"	2015	"Litográfica"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	880.387040379309
+"223"	2015	"Litográfica"	"PP"	"L"	"C211X208L"	"PEGA"	"17"	"PP"	95.2057
+"224"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X926.8"	"DR9"	"NPI"	"PP"	26.557255
+"225"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	2654.22090949906
+"226"	2015	"Comercialización"	"PT"	"OTROS"	"CJ"	"PPLIT"	"20"	"B"	8.113585
+"227"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202X308R"	"SARDINA"	"15"	"A"	115.0974555
+"228"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	402.4260136114
+"229"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X926.8"	"DR9"	"NPI"	"PP"	19.990105
+"230"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C307/305X409R"	"VEGETALES"	"17"	"B"	66.826954
+"231"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X996"	"DR8"	"NPI"	"C"	61.584364099318
+"232"	2015	"Compras e Importaciones"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	631.977107
+"233"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T401"	"ATUN"	"22"	"T"	105.7657936114
+"234"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X207L"	"ATUN"	"24"	"B"	29.294375
+"235"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	71.782920327296
+"236"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	111.311496999614
+"237"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"T401"	"ATUN"	"22"	"T"	0.1377290214
+"238"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	827.7935112604
+"239"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	97.0930085
+"240"	2015	"Comercialización"	"PT"	"L"	"C603X209L"	"ATUN"	"24"	"A"	11.919772327296
+"241"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	187.1463586114
+"242"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X833X699"	"T3"	"20"	"C"	60.913224099318
+"243"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"SARDINA"	"16"	"B"	264.214177
+"244"	2015	"Litográfica"	"PT"	"TAPA"	"T202"	"SARDINA"	"18"	"T"	73.5672332
+"245"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	39.453872056863
+"246"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	116.682207560136
+"247"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	82.0886296114
+"248"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"15"	"B"	622.131832327296
+"249"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	165.124063
+"250"	2015	"Litográfica"	"PP"	"R"	"C603X209-408-600R"	"ATUN"	"24"	"PP"	53.664761
+"251"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X839X702.8"	"T5"	"NPI"	"PP"	304.923022
+"252"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	43.8563190214
+"253"	2015	"Litográfica"	"PT"	"TAPA"	"T200"	"SARDINA"	"18"	"T"	369.478760607593
+"254"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	569.507799101871
+"255"	2015	"Litográfica"	"PP"	"L"	"E307X112L"	"ATUN"	"16"	"PP"	91.53188
+"256"	2015	"Litográfica"	"PP"	"L"	"E307X110.5L"	"ATUN"	"16"	"PP"	196.120453
+"257"	2015	"Otros"	"PP"	"OTROS"	"0.16X843X776"	"DR9"	"NPI"	"PP"	0
+"258"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	284.099305327296
+"259"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X402R"	"ATUN"	"22"	"A"	244.145423
+"260"	2015	"Litográfica"	"PT"	"L"	"E307X108.5L"	"ATUN"	"16"	"T"	12.399682327296
+"261"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X209L"	"ATUN"	"24"	"C"	30.282078
+"262"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	49.238762327296
+"263"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X765X743"	"T3"	"20"	"C"	90.455204099318
+"264"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"SARDINA"	"16"	"B"	59.920224
+"265"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	22.958715327296
+"266"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	182.110056044989
+"267"	2015	"Comercialización"	"PP"	"OTROS"	"0.17X870X996"	"DR8"	"NPI"	"C"	121.048804068086
+"268"	2015	"Litográfica"	"PP"	"R"	"C300X407R"	"PALMITO"	"16"	"PP"	120.79993
+"269"	2015	"Compras e Importaciones"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	54.32842
+"270"	2015	"Sanitarios Embutidos"	"PT"	"R"	"EOVAL15R"	"SARDINA"	"18"	"T"	85.977966
+"271"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	620.84512258051
+"272"	2015	"Litográfica"	"PP"	"L"	"C211X107-201L"	"ATUN"	"17"	"PP"	125.249068
+"273"	2015	"Comercialización"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	3.3617190214
+"274"	2015	"Compras e Importaciones"	"PT"	"R"	"C202X308R"	"SARDINA"	"15"	"A"	0.1381440214
+"275"	2015	"Litográfica"	"PP"	"TAPA"	"T401"	"ATUN"	"22"	"PP"	7.880054
+"276"	2015	"Litográfica"	"PT"	"TAPA"	"T211"	"ATUN"	"18"	"T"	15.0906572484741
+"277"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202X308R"	"SARDINA"	"15"	"A"	30.871624
+"278"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	255.474877
+"279"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X776"	"DR9"	"NPI"	"PP"	6.220868
+"280"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X208L"	"PEGA"	"18"	"B"	3.4877895
+"281"	2015	"Sanitarios Soldadura"	"PP"	"R"	"C300X407R"	"SARD"	"16"	"PP"	1093.72537150592
+"282"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X402R"	"ATUN"	"22"	"A"	237.614893
+"283"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	161.9820561746
+"284"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	67.4551210214
+"285"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"18"	"T"	520.627747394342
+"286"	2015	"Litográfica"	"PP"	"L"	"E307X109L"	"ATUN"	"NPI"	"PP"	16.587704
+"287"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"ATUN"	"17"	"B"	769.4314185
+"288"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"VEGETALES"	"16"	"B"	70.885458
+"289"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	115.0194590214
+"290"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	325.067853347101
+"291"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	375.5107528125
+"292"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	1580.18279864063
+"293"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	267.580911
+"294"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	50.306831327296
+"295"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X926.8"	"DR9"	"NPI"	"PP"	8.853196
+"296"	2015	"Litográfica"	"PP"	"L"	"E307X108.5L"	"ATUN"	"NPI"	"PP"	71.870838
+"297"	2015	"Comercialización"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	48.819276327296
+"298"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	571.555480359375
+"299"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	52.3386493739787
+"300"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	167.093111
+"301"	2015	"Litográfica"	"PP"	"R"	"C603X700R"	"PALMITO"	"28"	"PP"	53.93293
+"302"	2015	"Litográfica"	"PP"	"TAPA"	"T211"	"ATUN"	"NPI"	"PP"	242.771846
+"303"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X817X736"	"DR8"	"NPI"	"PP"	205.992637
+"304"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X895X742.95"	"DR8"	"NPI"	"PP"	97.342749099318
+"305"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X926.8"	"DR9"	"NPI"	"PP"	354.282933
+"306"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	57.742876999614
+"307"	2015	"Comercialización"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	1.7116280214
+"308"	2015	"Litográfica"	"PP"	"R"	"C211X106L-308L-413R"	"ATUN"	"18"	"PP"	33.18854
+"309"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X945X927"	"DR8"	"NPI"	"C"	233.252623
+"310"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	43.6830165
+"311"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.23X964X832.5"	"T3"	"NPI"	"PP"	359.009442
+"312"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T401"	"ATUN"	"22"	"T"	3.069788327296
+"313"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X795"	"DR8"	"NPI"	"C"	42.917760099318
+"314"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	618.450188
+"315"	2015	"Linea General Otros"	"PT"	"L"	"CR904X904X1309L"	"PEGA"	"22"	"B"	10.3
+"316"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"TOVAL16"	"SARDINA"	"24"	"T"	2118.8835203273
+"317"	2015	"Litográfica"	"PP"	"L"	"E208/211X207.5L"	"SALCH"	"16"	"PP"	130.108042
+"318"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	421.309440799561
+"319"	2015	"Servicios Generales"	"PT"	"OTROS"	"F610"	"PINT."	"NPI"	"NPI"	59.6271315
+"320"	2015	"Litográfica"	"PP"	"L"	"E307X110.5L"	"ATUN"	"16"	"PP"	41.8095015
+"321"	2015	"Litográfica"	"PP"	"L"	"E307X109L"	"ATUN"	"NPI"	"PP"	167.280134
+"322"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"TOVAL16"	"SARDINA"	"23"	"T"	0.1377860214
+"323"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X108.5L"	"ATUN"	"16"	"T"	112.5992735
+"324"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X705X1006"	"T4"	"NPI"	"PP"	104.650847
+"325"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	10.4677294979575
+"326"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	107.087987
+"327"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	42.782830327296
+"328"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	344.189492960326
+"329"	2015	"Litográfica"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	27.8847772399983
+"330"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C401/315X208L"	"ATUN"	"17"	"B"	180.558634
+"331"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	449.977236635638
+"332"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T200"	"SARDINA"	"18"	"T"	1375.81491950981
+"333"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X942"	"DR8"	"NPI"	"C"	97.086136099318
+"334"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	62.6050605
+"335"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X883X836.8"	"DR8"	"NPI"	"C"	230.761162
+"336"	2015	"Litográfica"	"PT"	"TAPA"	"T603"	"PALMITO"	"26"	"T"	450.703281875
+"337"	2015	"Servicios Generales"	"PT"	"OTROS"	"A307"	"LG"	"20"	"NPI"	275.996904
+"338"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	534.288086
+"339"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	56.033793
+"340"	2015	"Comercialización"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	25.963453327296
+"341"	2015	"Litográfica"	"PP"	"TAPA"	"T300"	"PALMITO"	"18"	"PP"	744.324067
+"342"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	44.5865088832062
+"343"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	52.588735999614
+"344"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	61.9445440214
+"345"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	88.9150716114
+"346"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	744.174614913365
+"347"	2015	"Litográfica"	"PP"	"TAPA"	"TOVAL16"	"SARD"	"23"	"PP"	93.564038
+"348"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	74.140903
+"349"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"C"	294.900000277625
+"350"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	840.352143453835
+"351"	2015	"Servicios Generales"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	386.158648
+"352"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	492.920946916896
+"353"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	213.3114266114
+"354"	2015	"Litográfica"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	185.497414145026
+"355"	2015	"Litográfica"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	57.686986610877
+"356"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	3.527198327296
+"357"	2015	"Servicios Generales"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	113.516254999614
+"358"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	39.869713
+"359"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	342.895704108357
+"360"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X801X809"	"T4"	"NPI"	"PP"	124.986339099318
+"361"	2015	"Comercialización"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	64.0777290214
+"362"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	441.959323358185
+"363"	2015	"Litográfica"	"PP"	"L"	"E208/211X207.5L"	"SALCH"	"16"	"PP"	219.308526
+"364"	2015	"Litográfica"	"PT"	"TAPA"	"T300"	"SARDINA"	"18"	"T"	75.5405453298649
+"365"	2015	"Litográfica"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	26.7503733055996
+"366"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	47.198717
+"367"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"PALMITO"	"26"	"T"	251.507971801441
+"368"	2015	"Desarrollo de Productos"	"PP"	"TAPA"	"T307EO"	"ATUN"	"22"	"PP"	5.544756
+"369"	2015	"Litográfica"	"PP"	"R"	"C603X209L-408R"	"ATUN"	"22"	"PP"	118.757893
+"370"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	44.7590346114
+"371"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	117.198248
+"372"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	225.186642
+"373"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X945X927"	"DR8"	"NPI"	"C"	93.885497
+"374"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"NPI"	"PP"	171.7009911746
+"375"	2015	"Comercialización"	"PT"	"R"	"EOVAL15R"	"SARDINA"	"18"	"T"	43.764818327296
+"376"	2015	"Litográfica"	"PT"	"L"	"E211X201L"	"ATUN"	"16"	"T"	145.915135
+"377"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X724"	"DR9"	"NPI"	"C"	34.419894099318
+"378"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"21"	"PP"	1057.03959908033
+"379"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	389.387686922944
+"380"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	18.223800327296
+"381"	2015	"Litográfica"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	615.588259
+"382"	2015	"Sanitarios Soldadura"	"PT"	"OTROS"	"C404X414MF"	"PINT.E"	"17"	"A"	42.297141
+"383"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	77.5760841511358
+"384"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.24X733X971"	"T5"	"NPI"	"C"	4.427583
+"385"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	77.9243756114
+"386"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	4.5348765
+"387"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X402R"	"ATUN"	"22"	"A"	143.8022565
+"388"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	1252.48737574457
+"389"	2015	"Comercialización"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	12.1577290214
+"390"	2015	"Comercialización"	"PT"	"R"	"C300/214X407R"	"SARDINA"	"16"	"B"	69.7477280214
+"391"	2015	"Litográfica"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	5.409508
+"392"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"TOVAL16"	"SARDINA"	"24"	"T"	0.1377790214
+"393"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"SARDINA"	"18"	"T"	136.139999
+"394"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X402R"	"ATUN"	"24"	"A"	43.02384
+"395"	2015	"Comercialización"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	18.3097290214
+"396"	2015	"Litográfica"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	608.733249212686
+"397"	2015	"Litográfica"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	162.874261858602
+"398"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	33.207797
+"399"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	114.637613327296
+"400"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X926.8"	"DR9"	"NPI"	"PP"	364.705803
+"401"	2015	"Litográfica"	"PP"	"TAPA"	"TC-PRY"	"PVC-F"	"18"	"PP"	105.585636
+"402"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C401/315X208L"	"ATUN"	"17"	"B"	100.985556990144
+"403"	2015	"Litográfica"	"PP"	"OTROS"	"F404"	"PROTEC"	"NPI"	"PP"	983.53047
+"404"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	53.2127806114
+"405"	2015	"Litográfica"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	16.3496947912576
+"406"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X903X917"	"T5"	"NPI"	"PP"	387.731596926676
+"407"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	295.040423560136
+"408"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	736.861567788144
+"409"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X705X1006"	"T4"	"NPI"	"PP"	6.221324
+"410"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	355.2466955
+"411"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"T202"	"SARDINA"	"18"	"T"	0
+"412"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X1052"	"DR8"	"NPI"	"C"	37.118103099318
+"413"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202/200X308R"	"SARDINA"	"15"	"A"	151.5108415
+"414"	2015	"Comercialización"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	3.4877895
+"415"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C211/209X400R"	"VEGETALES"	"17"	"B"	2.70493
+"416"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X402R"	"ATUN"	"22"	"A"	120.5113225
+"417"	2015	"Litográfica"	"PP"	"L"	"E307X112L"	"ATUN"	"NPI"	"PP"	28.89731
+"418"	2015	"Corte"	"PP"	"TAPA"	"T300"	"PALMITO"	"NPI"	"PP"	257.290856
+"419"	2015	"Litográfica"	"PP"	"TAPA"	"T211"	"ATUN"	"18"	"PP"	5.5176535
+"420"	2015	"Litográfica"	"PP"	"TAPA"	"TOVAL16"	"SARDINA"	"23"	"PP"	76.540007
+"421"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	90.763273999614
+"422"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C211/209X400R"	"VEGETALES"	"17"	"B"	170.277685
+"423"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	52.300205327296
+"424"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"SARDINA"	"18"	"T"	95.7756170963653
+"425"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X895X816"	"DR8"	"NPI"	"PP"	16.249644099318
+"426"	2015	"Litográfica"	"PP"	"TAPA"	"TC"	"PVC.FREE"	"NPI"	"PP"	172.064445
+"427"	2015	"Litográfica"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	384.985861880696
+"428"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	131.226662021067
+"429"	2015	"Comercialización"	"PT"	"L"	"E401X202L"	"ATUN"	"22"	"T"	16.6177280214
+"430"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	13.377937327296
+"431"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202/200X308R"	"SARDINA"	"16"	"B"	368.382495
+"432"	2015	"Litográfica"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	87.4956894
+"433"	2015	"Litográfica"	"PP"	"L"	"E307X110.5L"	"ATUN"	"16"	"PP"	33.881542
+"434"	2015	"Litográfica"	"PP"	"R"	"C300X407R"	"PALMITO"	"15"	"PP"	247.37929
+"435"	2015	"Litográfica"	"PP"	"L"	"E307X110.5L"	"ATUN"	"16"	"PP"	28.724198
+"436"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	26.121157327296
+"437"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	45.2315630214
+"438"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"22"	"PP"	31.142008
+"439"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	746.003865509431
+"440"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	35.0985190214
+"441"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	47.9817270214
+"442"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X308L"	"ATUN"	"17"	"A"	2169.4580846114
+"443"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	314.69627475
+"444"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X705X1006"	"T4"	"NPI"	"PP"	137.329925
+"445"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X724"	"DR9"	"NPI"	"C"	54.141844099318
+"446"	2015	"Tapas Bebidas"	"PT"	"TAPA"	"TP28X17"	"POLIET"	"21"	"REF"	78.372765
+"447"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X945X927"	"DR8"	"NPI"	"C"	7.589815
+"448"	2015	"Comercialización"	"PT"	"L"	"E307X113L"	"ATUN"	"16"	"T"	168.7233610214
+"449"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X833X879"	"T3"	"20"	"C"	126.980503053352
+"450"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X500L"	"QUESO"	"24"	"C"	193.203081
+"451"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X606L"	"DILUY"	"17"	"B"	136.371255
+"452"	2015	"Comercialización"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	3.817302327296
+"453"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X842X815.09"	"T4"	"NPI"	"PP"	77.013642053352
+"454"	2015	"Litográfica"	"PP"	"TAPA"	"TC"	"PVC.FREE"	"NPI"	"PP"	237.1818765
+"455"	2015	"Comercialización"	"PT"	"R"	"C300/214X407R"	"SARDINA"	"16"	"B"	36.9777280214
+"456"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X776"	"DR9"	"NPI"	"PP"	337.823839
+"457"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	73.298268327296
+"458"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	112.119076327296
+"459"	2015	"Litográfica"	"PT"	"L"	"C401/315X208L"	"ATUN"	"17"	"B"	50.4927784950722
+"460"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E211X200L"	"ATUN"	"17"	"T"	137.140823246141
+"461"	2015	"Corte"	"PP"	"OTROS"	"0.18X893X807"	"T4"	"NPI"	"PP"	643.7068035
+"462"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X946.1"	"DR9"	"NPI"	"PP"	375.30493
+"463"	2015	"Comercialización"	"PP"	"OTROS"	"0.22X892X1000.6"	"T4"	"NPI"	"PP"	127.160989068086
+"464"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	184.172790327296
+"465"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	96.04263
+"466"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	48.130959327296
+"467"	2015	"Bodega PT"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	324.176742
+"468"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202/200X308R"	"SARDINA"	"15"	"A"	270.635233
+"469"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T401"	"ATUN"	"22"	"T"	45.1777280214
+"470"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C401/315X206L"	"ATUN"	"17"	"B"	369.221371
+"471"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	189.478685948453
+"472"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	94.971426
+"473"	2015	"Litográfica"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	74.84568439
+"474"	2015	"Litográfica"	"PT"	"TAPA"	"T401"	"ATUN"	"22"	"T"	11.0842474248726
+"475"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211/209X201L"	"ATUN"	"17"	"A"	366.5892195
+"476"	2015	"Litográfica"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	57.402604
+"477"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X1052"	"DR8"	"NPI"	"C"	81.856686053352
+"478"	2015	"Litográfica"	"PP"	"R"	"C603X209L-408R"	"ATUN"	"22"	"PP"	200.1519
+"479"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.21X894X914.05"	"T5"	"NPI"	"PP"	7.776268
+"480"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	18.7106578268832
+"481"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X209L"	"ATUN"	"22"	"A"	44.694395
+"482"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X1052"	"DR8"	"NPI"	"C"	127.845964
+"483"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X894X914.05"	"T5"	"NPI"	"PP"	391.284338
+"484"	2015	"Comercialización"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	40.584393999614
+"485"	2015	"Litográfica"	"PT"	"L"	"C211X106L"	"ATUN"	"18"	"B"	71.8159818272947
+"486"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	22.138531
+"487"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X883X836.8"	"DR8"	"NPI"	"C"	253.40894
+"488"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211/209X201L"	"ATUN"	"17"	"A"	704.1074945
+"489"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	306.235883628563
+"490"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X105.5L"	"ATUN"	"16"	"T"	224.796063781696
+"491"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X851X831"	"DR8"	"NPI"	"C"	57.273264099318
+"492"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X308L"	"ATUN"	"18"	"B"	356.017083
+"493"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	269.904048560136
+"494"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X801X809"	"T4"	"NPI"	"T"	3.110984
+"495"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"NPI"	"PP"	81.96581
+"496"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X833X699"	"T3"	"20"	"C"	98.389928099318
+"497"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202/200X308R"	"SARDINA"	"15"	"A"	293.1965395714
+"498"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	41.401167
+"499"	2015	"Litográfica"	"PP"	"L"	"E307X108.5L"	"ATUN"	"NPI"	"PP"	8.313074
+"500"	2015	"Comercialización"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	37.270957
+"501"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	0.1377350214
+"502"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.26X782X864.1"	"T5"	"NPI"	"PP"	445.358669
+"503"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	36.917427560136
+"504"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	70.9873070214
+"505"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"TOVAL16"	"SARDINA"	"24"	"T"	0.1377880214
+"506"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.21X903X917"	"T5"	"NPI"	"PP"	223.778285
+"507"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	60.198899
+"508"	2015	"Comercialización"	"PP"	"OTROS"	"0.22X892X1000.6"	"T4"	"NPI"	"PP"	144.663536068086
+"509"	2015	"Linea General Otros"	"PT"	"OTROS"	"CJ"	"F"	"16"	"B"	42.378335
+"510"	2015	"Litográfica"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	105.318494892404
+"511"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X207L"	"ATUN"	"22"	"A"	168.135077
+"512"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	194.807576581411
+"513"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X926.8"	"DR9"	"NPI"	"PP"	12.441128
+"514"	2015	"Corte"	"PP"	"R"	"C603X700R"	"PALMITO"	"28"	"PP"	5.6911975
+"515"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	34.0400586114
+"516"	2015	"Comercialización"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	2.704869
+"517"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	424.58894
+"518"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X500L"	"QUESO"	"24"	"C"	116.59649
+"519"	2015	"Litográfica"	"PP"	"TAPA"	"TC-PRY"	"PVC-F"	"22"	"PP"	150.074722
+"520"	2015	"Litográfica"	"PT"	"TAPA"	"T315"	"PALMITO"	"20"	"T"	267.071701
+"521"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X926.8"	"DR9"	"NPI"	"PP"	472.686514099318
+"522"	2015	"Servicios Generales"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	189.385733
+"523"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	295.859209
+"524"	2015	"Litográfica"	"PP"	"TAPA"	"T307"	"ATUN"	"NPI"	"PP"	54.326471
+"525"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X700R"	"PALMITO"	"28"	"A"	723.074536614017
+"526"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	386.796007811046
+"527"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	742.199966
+"528"	2015	"Litográfica"	"PP"	"L"	"E307X112L"	"ATUN"	"NPI"	"PP"	1332.036312
+"529"	2015	"Servicios Generales"	"PT"	"OTROS"	"F610"	"PINT.E"	"17"	"A"	1577.41517
+"530"	2015	"Litográfica"	"PP"	"L"	"C404X500L"	"PINT.E"	"NPI"	"PP"	74.036345
+"531"	2015	"Compras e Importaciones"	"PP"	"TAPA"	"TC"	"PVC.FREE"	"NPI"	"PP"	130.79822
+"532"	2015	"Comercialización"	"PT"	"R"	"C401/315X407R"	"ATUN"	"17"	"B"	6.583811327296
+"533"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	79.347467327296
+"534"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	281.432695
+"535"	2015	"Litográfica"	"PP"	"L"	"C401X208L"	"ATUN"	"NPI"	"PP"	54.800784
+"536"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X870X942"	"DR8"	"NPI"	"C"	39.078252
+"537"	2015	"Tapas Bebidas"	"PT"	"TAPA"	"TC-P"	"PVC-FR"	"22"	"T"	170.465681
+"538"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.21X894X914.05"	"T5"	"NPI"	"PP"	9.331261
+"539"	2015	"Comercialización"	"PP"	"OTROS"	"0.21X894X953"	"T5"	"NPI"	"PP"	132.663660068086
+"540"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"NPI"	"PP"	14.942521
+"541"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T315"	"ATUN"	"22"	"T"	8.411466
+"542"	2015	"Comercialización"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	141.5676840214
+"543"	2015	"Comercialización"	"PT"	"TAPA"	"T300"	"EOF"	"21"	"T"	16.405723327296
+"544"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.21X894X914.05"	"T5"	"NPI"	"PP"	264.764695
+"545"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X942"	"DR8"	"NPI"	"C"	70.831690099318
+"546"	2015	"Sanitarios Embutidos"	"PT"	"R"	"EOVAL15R"	"SARDINA"	"18"	"T"	431.45811
+"547"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X308L"	"ATUN"	"18"	"B"	840.307719
+"548"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	708.69868
+"549"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	103.966336327296
+"550"	2015	"Litográfica"	"PP"	"L"	"E208/211X207.5L"	"SALCH"	"16"	"PP"	77.493108
+"551"	2015	"Litográfica"	"PT"	"L"	"E307X113L"	"ATUN"	"16"	"T"	1095.0844793273
+"552"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	91.851100327296
+"553"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	204.1566086
+"554"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	5.976517327296
+"555"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	458.85476425
+"556"	2015	"Litográfica"	"PP"	"TAPA"	"T300"	"PALMITO"	"18"	"PP"	89.069052
+"557"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C211/209X413R"	"SALCHICHA"	"18"	"B"	559.263954
+"558"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	75.8728307898699
+"559"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X893X807"	"T4"	"NPI"	"PP"	8.853111
+"560"	2015	"Litográfica"	"PP"	"TAPA"	"T211"	"ATUN"	"NPI"	"PP"	28.312705
+"561"	2015	"Litográfica"	"PP"	"TAPA"	"TC"	"PVC.FREE"	"NPI"	"PP"	2120.2065651318
+"562"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	107.18629761
+"563"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	172.5001556114
+"564"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	154.2584680214
+"565"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"VEGETALES"	"16"	"B"	392.788982
+"566"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	139.219845327296
+"567"	2015	"Comercialización"	"PT"	"TAPA"	"T211EO"	"ATUN"	"22"	"T"	37.3512135
+"568"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.23X964X832.5"	"T3"	"NPI"	"PP"	9.331697
+"569"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X945X927"	"DR8"	"NPI"	"C"	213.722386
+"570"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	114.697282715913
+"571"	2015	"Litográfica"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	458.85476425
+"572"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	456.2197305
+"573"	2015	"Corte"	"PP"	"OTROS"	"0.16X843X926.8"	"DR9"	"NPI"	"PP"	456.3893445
+"574"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	50.004054327296
+"575"	2015	"Litográfica"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	886.253736780106
+"576"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	20.926994
+"577"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	0.1377360214
+"578"	2015	"Litográfica"	"PP"	"R"	"C603X209L-408R"	"ATUN"	"22"	"PP"	76.14162
+"579"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	127.764644
+"580"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	387.86563958403
+"581"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T401"	"ATUN"	"22"	"T"	103.318011732537
+"582"	2015	"Litográfica"	"PT"	"L"	"E307X105.5L"	"ATUN"	"16"	"T"	0.126596560136
+"583"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	405.443752327296
+"584"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"T401"	"ATUN"	"22"	"T"	0.1377590214
+"585"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X209L"	"ATUN"	"22"	"A"	12.917719999614
+"586"	2015	"Comercialización"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	33.6677290214
+"587"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	63.404299327296
+"588"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	0.090154327296
+"589"	2015	"Litográfica"	"PP"	"TAPA"	"TC-PRY"	"PVC-F"	"18"	"PP"	39.935228
+"590"	2015	"Litográfica"	"PP"	"TAPA"	"T211"	"ATUN"	"22"	"PP"	19.210725
+"591"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	443.628859717605
+"592"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	97.0492734483605
+"593"	2015	"Litográfica"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	67.4687371498078
+"594"	2015	"Litográfica"	"PP"	"TAPA"	"TC-PRY"	"PVC-F"	"18"	"PP"	550.309629790944
+"595"	2015	"Comercialización"	"PT"	"R"	"EOVAL16R"	"SARDINA"	"18"	"T"	11.723280327296
+"596"	2015	"Litográfica"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	524.49379125
+"597"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	261.19783
+"598"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	501.587283327296
+"599"	2015	"Desarrollo de Productos"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	218.016771
+"600"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.24X848X971"	"T5"	"20"	"C"	65.778728099318
+"601"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.21X894X914.05"	"T5"	"NPI"	"PP"	284.494441
+"602"	2015	"Compras e Importaciones"	"PP"	"L"	"E401X202.5L"	"ATUN"	"22"	"PP"	350.52392508033
+"603"	2015	"Litográfica"	"PP"	"TAPA"	"T300"	"PALMITO"	"18"	"PP"	137.408254
+"604"	2015	"Litográfica"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	86.722335269891
+"605"	2015	"Litográfica"	"PT"	"L"	"E211X200L"	"ATUN"	"17"	"T"	159.997625139575
+"606"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	230.197067999614
+"607"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	60.995176
+"608"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X946.1"	"DR9"	"NPI"	"PP"	10.369916
+"609"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	3.564146327296
+"610"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	21.0277290214
+"611"	2015	"Sanitarios Soldadura"	"PT"	"OTROS"	"C404X414MF"	"PINT.E"	"17"	"A"	205.65571
+"612"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X209L"	"ATUN"	"24"	"C"	107.890198
+"613"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.21X903X953"	"T5"	"NPI"	"PP"	107.795998
+"614"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X700R"	"PALMITO"	"28"	"A"	737.5422545
+"615"	2015	"Sanitarios Soldadura"	"PT"	"OTROS"	"C404X414MF"	"PINT.E"	"17"	"A"	66.091035
+"616"	2015	"Litográfica"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	59.2011295418993
+"617"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	72.6982435
+"618"	2015	"Servicios Generales"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	564.263654
+"619"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X945X927"	"DR8"	"NPI"	"C"	300.273772
+"620"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X106L"	"ATUN"	"18"	"B"	125.677968197766
+"621"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	81.3894845364285
+"622"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X946.1"	"DR9"	"NPI"	"PP"	11.0662185
+"623"	2015	"Comercialización"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	3.4877895
+"624"	2015	"Comercialización"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	12.503603327296
+"625"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	930.538208
+"626"	2015	"Comercialización"	"PT"	"TAPA"	"T211EO"	"ATUN"	"22"	"T"	32.199101
+"627"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X903X914.05"	"T5"	"NPI"	"PP"	6.221476
+"628"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X817X736"	"DR8"	"NPI"	"PP"	281.356201
+"629"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X946.1"	"DR9"	"NPI"	"PP"	377.793466
+"630"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.23X810X832.5"	"T3"	"NPI"	"PP"	209.729307
+"631"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	258.7007661746
+"632"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X926.8"	"DR9"	"NPI"	"PP"	299.143754
+"633"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	160.267274951739
+"634"	2015	"Litográfica"	"PP"	"TAPA"	"T401"	"PALMITO"	"NPI"	"PP"	1.672747327296
+"635"	2015	"Comercialización"	"PT"	"R"	"C211/209X400R"	"VEGETALES"	"17"	"B"	2.704942
+"636"	2015	"Comercialización"	"PT"	"R"	"C401/315X407R"	"ATUN"	"17"	"B"	130.9177280214
+"637"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X816"	"DR9"	"NPI"	"PP"	29.321214099318
+"638"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	167.55244
+"639"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X945X927"	"DR8"	"NPI"	"C"	103.478825
+"640"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X926.8"	"DR9"	"NPI"	"PP"	529.264822
+"641"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	9.182144
+"642"	2015	"Litográfica"	"PP"	"TAPA"	"TC-PRY"	"PVC-F"	"22"	"PP"	93.226577
+"643"	2015	"Comercialización"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	629.087477999614
+"644"	2015	"Litográfica"	"PP"	"TAPA"	"TC-PRY"	"PVC-F"	"18"	"PP"	1192.69507
+"645"	2015	"Litográfica"	"PP"	"TAPA"	"TC-PRY"	"PVC-F"	"22"	"PP"	134.336064
+"646"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	136.892472327296
+"647"	2015	"Litográfica"	"PP"	"R"	"EOVAL16R"	"SARD"	"18"	"PP"	324.782846
+"648"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X705X1006"	"T4"	"NPI"	"PP"	341.5975775
+"649"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	67.156048327296
+"650"	2015	"Litográfica"	"PP"	"TAPA"	"TOVAL16"	"SARD"	"23"	"PP"	109.663475915165
+"651"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X207L"	"ATUN"	"22"	"A"	209.855317
+"652"	2015	"Litográfica"	"PP"	"R"	"C202X308R"	"SARDINA"	"NPI"	"PP"	21.326175561846
+"653"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	84.7020710214
+"654"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	174.368677327296
+"655"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	39.22523
+"656"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	1712.0309443273
+"657"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	52.072437999614
+"658"	2015	"Litográfica"	"PP"	"TAPA"	"TC"	"PVC.FREE"	"NPI"	"PP"	28.487473
+"659"	2015	"Litográfica"	"PT"	"TAPA"	"T401"	"ATUN"	"22"	"T"	69.5048445392348
+"660"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	82.722933327296
+"661"	2015	"Litográfica"	"PT"	"L"	"E307X108.5L"	"ATUN"	"16"	"T"	516.64882
+"662"	2015	"Litográfica"	"PT"	"TAPA"	"T401"	"ATUN"	"22"	"T"	111.378136
+"663"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X810X907"	"T3"	"NPI"	"C"	86.885300099318
+"664"	2015	"Servicios Generales"	"PT"	"OTROS"	"A610"	"LG"	"20"	"NPI"	209.190714
+"665"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X946.1"	"DR9"	"NPI"	"PP"	230.89202
+"666"	2015	"Litográfica"	"PP"	"TAPA"	"T401"	"ATUN"	"22"	"PP"	51.293738
+"667"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	235.69707858022
+"668"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	21.631694327296
+"669"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	259.2950325
+"670"	2015	"Litográfica"	"PP"	"R"	"EOVAL16R"	"SARD"	"18"	"PP"	65.604152
+"671"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202/200X308R"	"SARDINA"	"16"	"B"	24.087988
+"672"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	61.346744999614
+"673"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	330.457363
+"674"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	244.580766560136
+"675"	2015	"Litográfica"	"PT"	"L"	"E307X105.5L"	"ATUN"	"16"	"T"	205.248577917857
+"676"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"TOVAL16"	"SARDINA"	"23"	"T"	3196.3867713273
+"677"	2015	"Litográfica"	"PP"	"L"	"E307X110.5L"	"ATUN"	"16"	"PP"	86.172594
+"678"	2015	"Comercialización"	"PT"	"R"	"C202X308R"	"SARDINA"	"15"	"A"	48.338284327296
+"679"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T401"	"PALMITO"	"22"	"T"	852.9176205
+"680"	2015	"Tapas Bebidas"	"PT"	"TAPA"	"TC-P"	"PVC-NM"	"22"	"T"	45.57463
+"681"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T200"	"SARDINA"	"18"	"T"	698.314850714471
+"682"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	46.265406327296
+"683"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X851X831"	"DR8"	"NPI"	"C"	67.955316099318
+"684"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X801X809"	"T4"	"NPI"	"T"	72.354875926676
+"685"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X700R"	"PALMITO"	"28"	"A"	84.1258265
+"686"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	0.116282999614
+"687"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	0.1377330214
+"688"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X833X781.5"	"T3"	"20"	"C"	62.124412053352
+"689"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	683.479144541808
+"690"	2015	"Comercialización"	"PT"	"L"	"E307X105.5L"	"ATUN"	"17"	"T"	2.159212327296
+"691"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	344.519512867058
+"692"	2015	"Litográfica"	"PP"	"TAPA"	"T211"	"ATUN"	"NPI"	"PP"	14.750317
+"693"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211EO"	"ATUN"	"22"	"T"	2548.9182013273
+"694"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X833X879"	"T3"	"20"	"C"	71.180565099318
+"695"	2015	"Litográfica"	"PT"	"L"	"E307X105.5L"	"ATUN"	"17"	"T"	212.742011470362
+"696"	2015	"Litográfica"	"PT"	"TAPA"	"T315"	"ATUN"	"22"	"T"	418.803688
+"697"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X926.8"	"DR9"	"NPI"	"PP"	528.261786
+"698"	2015	"Tapas Bebidas"	"PP"	"TAPA"	"TC-PRY"	"PVC-F"	"18"	"PP"	361.4888693571
+"699"	2015	"Tapas Bebidas"	"PT"	"TAPA"	"TC-P"	"PVC-FR"	"22"	"T"	91.739
+"700"	2015	"Compras e Importaciones"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	34.0677290214
+"701"	2015	"Servicios Generales"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	41.180007
+"702"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	222.932552441603
+"703"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"SARDINA"	"18"	"T"	0.304976327296
+"704"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	24.084450327296
+"705"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X209L"	"ATUN"	"24"	"B"	140.314922
+"706"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"SARDINA"	"18"	"T"	37.1223310746552
+"707"	2015	"Litográfica"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	6.79472030494557
+"708"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	19.89879275
+"709"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	182.694824774982
+"710"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202/200X308R"	"SARDINA"	"15"	"A"	71.3612495
+"711"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X765X743"	"T3"	"20"	"C"	33.966804099318
+"712"	2015	"Compras e Importaciones"	"PP"	"L"	"E307X108.5L"	"ATUN"	"NPI"	"PP"	5.1032475
+"713"	2015	"Litográfica"	"PT"	"TAPA"	"T300"	"SARDINA"	"18"	"T"	34.3256518828125
+"714"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X1052"	"DR8"	"NPI"	"C"	112.03381
+"715"	2015	"Compras e Importaciones"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"15"	"B"	860.5594785
+"716"	2015	"Litográfica"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	298.48189125
+"717"	2015	"Compras e Importaciones"	"PP"	"R"	"C300X407R"	"PALMITO"	"16"	"PP"	4762.284549
+"718"	2015	"Litográfica"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	2658.0035945
+"719"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X851X1037"	"DR8"	"NPI"	"C"	55.863099099318
+"720"	2015	"Litográfica"	"PP"	"TAPA"	"T211"	"ATUN"	"20"	"PP"	322.77397
+"721"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	912.8269415
+"722"	2015	"Comercialización"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	2.704865
+"723"	2015	"Litográfica"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	97.2743191821539
+"724"	2015	"Comercialización"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	9.020661327296
+"725"	2015	"Comercialización"	"PT"	"R"	"C603X402R"	"ATUN"	"22"	"A"	41.961144327296
+"726"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	1646.014414
+"727"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	57.402604
+"728"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	407.9957906114
+"729"	2015	"Litográfica"	"PP"	"R"	"C401X411R"	"PALMITO"	"NPI"	"PP"	74.101379
+"730"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X945X927"	"DR8"	"NPI"	"C"	147.781831
+"731"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C401X407L"	"LECHE"	"17"	"B"	100.567624
+"732"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X946.1"	"DR9"	"NPI"	"PP"	135.801832
+"733"	2015	"Comercialización"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	888.1710746114
+"734"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X996"	"DR8"	"NPI"	"C"	33.289488099318
+"735"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	269.403074560136
+"736"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X894X914.05"	"T5"	"NPI"	"PP"	13.915148
+"737"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	13.773216
+"738"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X894X914.05"	"T5"	"NPI"	"PP"	520.043647453352
+"739"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X926.8"	"DR9"	"NPI"	"PP"	10.497733
+"740"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.24X848X971"	"T5"	"20"	"C"	247.994279
+"741"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	353.567458686548
+"742"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X402R"	"ATUN"	"22"	"A"	33.7244335
+"743"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C401/315X208L"	"ATUN"	"17"	"B"	115.0973395
+"744"	2015	"Servicios Generales"	"PT"	"TAPA"	"T307EO"	"ATUN"	"21"	"T"	302.132331
+"745"	2015	"Comercialización"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	0.090488327296
+"746"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	397.948398
+"747"	2015	"Litográfica"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	68.8138808151111
+"748"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	202.243197435588
+"749"	2015	"Litográfica"	"PT"	"R"	"C603X700R"	"PALMITO"	"28"	"A"	162.322853532009
+"750"	2015	"Litográfica"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	127.764644
+"751"	2015	"Litográfica"	"PP"	"TAPA"	"TOVAL16"	"SARD"	"23"	"PP"	382.83829558033
+"752"	2015	"Litográfica"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	240.279104461798
+"753"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.21X894X914.05"	"T5"	"NPI"	"PP"	4.666282
+"754"	2015	"Litográfica"	"PP"	"R"	"C603X209-408-600R"	"ATUN"	"24"	"PP"	169.651753
+"755"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	23.8310026114
+"756"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"21"	"PP"	73.960732
+"757"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X208L"	"PEGA"	"18"	"B"	155.7773055
+"758"	2015	"Litográfica"	"PP"	"TAPA"	"T401"	"ATUN"	"22"	"PP"	23.318216
+"759"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	109.817079560136
+"760"	2015	"Litográfica"	"PT"	"TAPA"	"T603"	"PALMITO"	"26"	"T"	37.6508933069704
+"761"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X776"	"DR9"	"NPI"	"PP"	162.627334
+"762"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	40.66345
+"763"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	45.465167327296
+"764"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X402R"	"ATUN"	"22"	"A"	285.603093
+"765"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	31.1105716114
+"766"	2015	"Comercialización"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	12.4457475
+"767"	2015	"Comercialización"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	70.5238965
+"768"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211/209X201L"	"ATUN"	"17"	"A"	205.379627
+"769"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X700R"	"PALMITO"	"28"	"A"	348.01632846044
+"770"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	273.923771309707
+"771"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	225.3064516875
+"772"	2015	"Jefatura de Operaciones"	"PT"	"R"	"C211/209X413R"	"SALCHICHA"	"18"	"B"	100.46756
+"773"	2015	"Litográfica"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	280.488965537721
+"774"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	91.1234147336542
+"775"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	64.460084
+"776"	2015	"Comercialización"	"PP"	"OTROS"	"0.16X843X776"	"DR9"	"NPI"	"PP"	79.248237068086
+"777"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	151.2187100214
+"778"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	106.869297
+"779"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	148.714421
+"780"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T209"	"ATUN"	"20"	"T"	1842.76428477481
+"781"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X903X914.05"	"T5"	"NPI"	"PP"	366.428685
+"782"	2015	"Litográfica"	"PT"	"TAPA"	"T209"	"ATUN"	"20"	"T"	281.54734398207
+"783"	2015	"Litográfica"	"PP"	"L"	"C211X106-308L"	"ATUN"	"17"	"PP"	74.369134
+"784"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	6.975816
+"785"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	15.329999
+"786"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X833X724"	"T3"	"20"	"C"	53.849002099318
+"787"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.23X810X832.5"	"T3"	"NPI"	"PP"	4.666416
+"788"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	136.982107277837
+"789"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	40.275145327296
+"790"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"SARDINA"	"18"	"T"	61.0710865588201
+"791"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X207L"	"ATUN"	"24"	"B"	105.8557855
+"792"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X946.1"	"DR9"	"NPI"	"PP"	808.7094025
+"793"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	250.6157434
+"794"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	96.768375560136
+"795"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	15.505340327296
+"796"	2015	"Litográfica"	"PP"	"TAPA"	"T211"	"ATUN"	"20"	"PP"	64.070335
+"797"	2015	"Litográfica"	"PP"	"TAPA"	"TC"	"PVC.FREE"	"NPI"	"PP"	55.159472
+"798"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.21X903X953"	"T5"	"NPI"	"PP"	117.0352035
+"799"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	175.9784850214
+"800"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	231.812752999614
+"801"	2015	"Litográfica"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	663.072946
+"802"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C202X308R"	"SARDINA"	"15"	"A"	205.139592
+"803"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	170.709115
+"804"	2015	"Litográfica"	"PP"	"TAPA"	"T300"	"PALMITO"	"18"	"PP"	111.9937921212
+"805"	2015	"Servicios Generales"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	605.445408
+"806"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"T202"	"SARDINA"	"18"	"T"	0
+"807"	2015	"Comercialización"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	25.03569
+"808"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"16"	"PP"	14.717162
+"809"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X839X702.8"	"T4"	"NPI"	"PP"	55.841524099318
+"810"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X833X699"	"T3"	"20"	"C"	22.197204099318
+"811"	2015	"Litográfica"	"PT"	"L"	"C603X207L"	"ATUN"	"22"	"B"	223.017016
+"812"	2015	"Litográfica"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	414.172289516924
+"813"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	420.512338444553
+"814"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	0.902738
+"815"	2015	"Litográfica"	"PP"	"L"	"C404X414L"	"PINT.E"	"NPI"	"PP"	95.330745
+"816"	2015	"Litográfica"	"PP"	"TAPA"	"T211"	"ATUN"	"20"	"PP"	74.044701
+"817"	2015	"Comercialización"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	3.4877895
+"818"	2015	"Servicios Generales"	"PT"	"L"	"E401X111L"	"ATUN"	"16"	"T"	30.702104
+"819"	2015	"Litográfica"	"PT"	"TAPA"	"TC-P"	"PVC-FR"	"18"	"T"	938.773782150695
+"820"	2015	"Litográfica"	"PP"	"L"	"C603X207L"	"ATUN"	"22"	"PP"	23.45741
+"821"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T401"	"PALMITO"	"22"	"T"	134.527353
+"822"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	55.9918305
+"823"	2015	"Litográfica"	"PT"	"R"	"C610X708R"	"PINT.E"	"17"	"B"	0.045074163648
+"824"	2015	"Comercialización"	"PT"	"L"	"C401/315X208L"	"ATUN"	"17"	"B"	69.724896327296
+"825"	2015	"Compras e Importaciones"	"PT"	"R"	"C603X600R"	"ALCACHOFA"	"28"	"B"	115.619985
+"826"	2015	"Compras e Importaciones"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	12.930651
+"827"	2015	"Comercialización"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	3.4877895
+"828"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X407R"	"ATUN"	"17"	"B"	417.178975
+"829"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211EO"	"ATUN"	"22"	"T"	271.792081
+"830"	2015	"Litográfica"	"PT"	"TAPA"	"TC-P"	"PVC-FR"	"22"	"T"	84.040764
+"831"	2015	"Litográfica"	"PP"	"TAPA"	"T307"	"ATUN"	"NPI"	"PP"	5.2952675
+"832"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X870X831"	"DR8"	"NPI"	"C"	36.306948099318
+"833"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X308L"	"ATUN"	"18"	"B"	42.43405
+"834"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C300/214X203L"	"PALMITO"	"15"	"B"	346.188338
+"835"	2015	"Litográfica"	"PP"	"L"	"E307X110.5L"	"ATUN"	"16"	"PP"	33.863068
+"836"	2015	"Litográfica"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	274.117260154072
+"837"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"21"	"PP"	325.858517
+"838"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	205.0492446
+"839"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C211/209X400R"	"VEGETALES"	"17"	"B"	163.072551
+"840"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"PALMITO"	"26"	"T"	64.386183125
+"841"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	986.559542451047
+"842"	2015	"Litográfica"	"PP"	"L"	"E211X106L"	"ATUN"	"NPI"	"PP"	45.622708
+"843"	2015	"Comercialización"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	3.4877895
+"844"	2015	"Linea General Otros"	"PT"	"OTROS"	"CJ"	"PPLIT"	"20"	"B"	21.451598
+"845"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X105.5L"	"ATUN"	"17"	"T"	186.149258540725
+"846"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X1052"	"DR8"	"NPI"	"C"	51.169404099318
+"847"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"15"	"B"	301.540615
+"848"	2015	"Litográfica"	"PP"	"L"	"E208/211X207.5L"	"SALCH"	"16"	"PP"	75.1221415
+"849"	2015	"Litográfica"	"PP"	"R"	"C603X209-408-600R"	"ATUN"	"24"	"PP"	53.664761
+"850"	2015	"Otros"	"PT"	"OTROS"	"31.5X155"	"HIDRAFORM"	"NPI"	"NPI"	349.988389
+"851"	2015	"Litográfica"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	148.01917289
+"852"	2015	"Comercialización"	"PT"	"R"	"C202X308R"	"SARDINA"	"15"	"A"	39.948037327296
+"853"	2015	"Tapas Bebidas"	"PT"	"TAPA"	"TC-P"	"PVC-FR"	"22"	"T"	292.8944035
+"854"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X817X736"	"DR8"	"NPI"	"PP"	10.336237
+"855"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	49.1527715052223
+"856"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	449.429337047687
+"857"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	54.228961
+"858"	2015	"Litográfica"	"PP"	"L"	"E307X110L"	"ATUN"	"NPI"	"PP"	8.53782
+"859"	2015	"Litográfica"	"PP"	"TAPA"	"T603"	"ATUN"	"26"	"PP"	59.524752
+"860"	2015	"Litográfica"	"PT"	"L"	"E307X108.5L"	"ATUN"	"16"	"T"	72.427628560136
+"861"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X762X756"	"T3"	"NPI"	"T"	65.189562099318
+"862"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	2.722284327296
+"863"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.21X894X914.05"	"T5"	"NPI"	"PP"	292.697338
+"864"	2015	"Litográfica"	"PT"	"L"	"E307X110.5L"	"ATUN"	"16"	"T"	106.2116940214
+"865"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X945X927"	"DR8"	"NPI"	"C"	158.651529
+"866"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	175.16392809685
+"867"	2015	"Litográfica"	"PP"	"R"	"C300X407R"	"PALMITO"	"16"	"PP"	123.084115
+"868"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	693.3994305
+"869"	2015	"Litográfica"	"PP"	"TAPA"	"TPR610ND"	"PINT.A"	"NPI"	"PP"	65.7674
+"870"	2015	"Comercialización"	"PT"	"R"	"C603X700R"	"CHAMPIÑONES"	"28"	"A"	154.135879327296
+"871"	2015	"Litográfica"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	57.6474671774538
+"872"	2015	"Litográfica"	"PT"	"R"	"C202/200X308R"	"SARDINA"	"17"	"B"	290.9241496875
+"873"	2015	"Comercialización"	"PT"	"L"	"C603X209L"	"ATUN"	"22"	"A"	99.8177290214
+"874"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X308L"	"ATUN"	"17"	"A"	137.469989
+"875"	2015	"Litográfica"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"C"	575.976576513609
+"876"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	14.465173327296
+"877"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X848X971"	"T5"	"20"	"C"	164.314916053352
+"878"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	193.009734227292
+"879"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"15"	"B"	147.2315010214
+"880"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	221.1089660214
+"881"	2015	"Litográfica"	"PP"	"TAPA"	"T300"	"PALMITO"	"18"	"PP"	93.460173
+"882"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X801X809"	"T4"	"NPI"	"T"	127.5492995
+"883"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	38.938286999614
+"884"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	40.8372191650078
+"885"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	112.2194656114
+"886"	2015	"Compras e Importaciones"	"PT"	"R"	"C202X308R"	"SARDINA"	"15"	"A"	4.5342895
+"887"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	242.5671690214
+"888"	2015	"Comercialización"	"PT"	"L"	"C401/315X208L"	"ATUN"	"17"	"B"	7.467800327296
+"889"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	132.364141999614
+"890"	2015	"Litográfica"	"PP"	"L"	"E211X201L"	"ATUN"	"16"	"PP"	486.213631
+"891"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X705X1006"	"T4"	"NPI"	"PP"	4.666331
+"892"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	100.88571389875
+"893"	2015	"Litográfica"	"PT"	"TAPA"	"T200"	"SARDINA"	"18"	"T"	408.638006625
+"894"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.23X964X832.5"	"T3"	"NPI"	"PP"	166.490056
+"895"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	46.173029327296
+"896"	2015	"Litográfica"	"PT"	"L"	"E307X108.5L"	"ATUN"	"16"	"T"	133.506936
+"897"	2015	"Litográfica"	"PP"	"R"	"C300X407R"	"PALMITO"	"16"	"PP"	5.246116
+"898"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C211/209X413R"	"SALCHICHA"	"18"	"B"	811.163947
+"899"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X892X1000.6"	"DR8"	"NPI"	"PP"	771.570239
+"900"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X402R"	"ATUN"	"22"	"A"	286.8132295
+"901"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X900X996"	"DR8"	"20"	"C"	98.735544099318
+"902"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	304.195231327296
+"903"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X883X836.8"	"DR8"	"NPI"	"C"	7.776383
+"904"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X926.8"	"DR9"	"NPI"	"PP"	713.934373
+"905"	2015	"Servicios Generales"	"PT"	"L"	"E211X201L"	"ATUN"	"16"	"T"	88.043028
+"906"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T401"	"PALMITO"	"22"	"T"	133.617020327296
+"907"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X843X946.1"	"DR9"	"NPI"	"PP"	304.802072
+"908"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X926.8"	"DR9"	"NPI"	"PP"	205.124091926676
+"909"	2015	"Litográfica"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	107.38805
+"910"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.23X810X766.5"	"T3"	"NPI"	"PP"	375.464535
+"911"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X926.8"	"DR9"	"NPI"	"PP"	234.543831
+"912"	2015	"Comercialización"	"PT"	"R"	"C603X700R"	"PALMITO"	"28"	"A"	40.800998327296
+"913"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	32.283966999614
+"914"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	121.307222327296
+"915"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"NPI"	"PP"	55.049456
+"916"	2015	"Linea General Otros"	"PT"	"R"	"C610X708R"	"PINT.E"	"17"	"B"	0.045074163648
+"917"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"TOVAL16"	"SARDINA"	"23"	"T"	14.95998
+"918"	2015	"Litográfica"	"PT"	"TAPA"	"T307"	"ATUN"	"20"	"T"	182.626974376781
+"919"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C300/214X407R"	"PALMITO"	"16"	"B"	194.249898
+"920"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X903X917"	"T5"	"NPI"	"PP"	5.184809926676
+"921"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	10.737524195499
+"922"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	11.149708
+"923"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C603X700R"	"PALMITO"	"28"	"A"	160.174407
+"924"	2015	"Linea General Otros"	"PT"	"R"	"C610X708R"	"PINT.E"	"17"	"B"	5.998776
+"925"	2015	"Litográfica"	"PT"	"TAPA"	"T300"	"PALMITO"	"18"	"T"	190.561095717789
+"926"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"21"	"PP"	418.4806
+"927"	2015	"Litográfica"	"PT"	"L"	"E307X108.5L"	"ATUN"	"16"	"T"	112.5992735
+"928"	2015	"Litográfica"	"PP"	"L"	"E307X112L"	"ATUN"	"16"	"PP"	81.194448
+"929"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C603X207L"	"ATUN"	"24"	"B"	396.20169
+"930"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X813X795"	"DR8"	"NPI"	"C"	28.998450053352
+"931"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.16X956X926.8"	"DR9"	"NPI"	"PP"	8.294477926676
+"932"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	65.6133310105334
+"933"	2015	"Litográfica"	"PP"	"L"	"E307X109L"	"ATUN"	"NPI"	"PP"	86.480791561846
+"934"	2015	"Litográfica"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	114.029036
+"935"	2015	"Litográfica"	"PP"	"L"	"E307X108.5L"	"ATUN"	"NPI"	"PP"	8.313074
+"936"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	34.5700285173186
+"937"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X113L"	"ATUN"	"16"	"T"	131.980123561578
+"938"	2015	"Comercialización"	"PT"	"L"	"E208/211X207.5L"	"SALCHICHA"	"16"	"T"	2.704865
+"939"	2015	"Litográfica"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	2194.10228433733
+"940"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	326.700338542075
+"941"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	92.7487070725129
+"942"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X705X1006"	"T4"	"NPI"	"PP"	112.651143
+"943"	2015	"Litográfica"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	51.000132327296
+"944"	2015	"Comercialización"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	388.432865
+"945"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X903X953"	"T5"	"NPI"	"PP"	149.450810099318
+"946"	2015	"Litográfica"	"PP"	"L"	"C404X406L"	"PEGA"	"17"	"PP"	74.834766
+"947"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	52.300205327296
+"948"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	631.7793546114
+"949"	2015	"Litográfica"	"PP"	"TAPA"	"T307EO"	"ATUN"	"22"	"PP"	65.191964
+"950"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211EO"	"ATUN"	"22"	"T"	2528.23303526365
+"951"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"ATUN"	"17"	"B"	35.69984
+"952"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X893X902.6"	"T4"	"NPI"	"C"	100.183212099318
+"953"	2015	"Otros"	"PT"	"L"	"C603X207L"	"ATUN"	"22"	"A"	39.78944
+"954"	2015	"Comercialización"	"PT"	"L"	"E307X108L"	"ATUN"	"16"	"T"	26.0177290214
+"955"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	156.507798560136
+"956"	2015	"Litográfica"	"PT"	"L"	"E307X108.5L"	"ATUN"	"16"	"T"	121.525515327296
+"957"	2015	"Litográfica"	"PP"	"R"	"C300X407R"	"PALMITO"	"15"	"PP"	693.3014055
+"958"	2015	"Litográfica"	"PT"	"L"	"E307X109L"	"ATUN"	"16"	"T"	279.269930327296
+"959"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X900X996"	"DR8"	"20"	"C"	243.023959053352
+"960"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.22X848X971"	"T5"	"20"	"C"	176.570365
+"961"	2015	"Litográfica"	"PT"	"TAPA"	"T300"	"SARDINA"	"18"	"T"	43.8518497796085
+"962"	2015	"Litográfica"	"PT"	"L"	"E211X106L"	"ATUN"	"16"	"T"	88.315457
+"963"	2015	"Corte"	"PP"	"OTROS"	"0.23X964X769,75"	"T3"	"NPI"	"PP"	1148.96455
+"964"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.21X903X917"	"T5"	"NPI"	"PP"	4.427386
+"965"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X833X1052"	"T3"	"20"	"C"	60.389804099318
+"966"	2015	"Sanitarios Soldadura"	"PT"	"OTROS"	"C404X414MF"	"PINT.E"	"17"	"A"	16.227169
+"967"	2015	"Litográfica"	"PT"	"TAPA"	"T214"	"SARDINA"	"18"	"T"	43.109002399379
+"968"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X817X736"	"DR8"	"NPI"	"PP"	395.889457
+"969"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	814.066237488644
+"970"	2015	"Litográfica"	"PP"	"R"	"C610X708R"	"PINT.E"	"NPI"	"PP"	21.007941
+"971"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.24X733X971"	"T5"	"NPI"	"C"	160.279333
+"972"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C211/209X400R"	"VEGETALES"	"18"	"B"	384.061087
+"973"	2015	"Comercialización"	"PT"	"L"	"E307X110L"	"ATUN"	"16"	"T"	2.082334999614
+"974"	2015	"Sanitarios Embutidos"	"PT"	"L"	"E307X113L"	"ATUN"	"16"	"T"	45.908835
+"975"	2015	"Sanitarios Soldadura"	"PT"	"R"	"C401/315X411R"	"PALMITO"	"17"	"B"	81.086078
+"976"	2015	"Litográfica"	"PT"	"R"	"C603X700R"	"PALMITO"	"28"	"A"	29.6758077626388
+"977"	2015	"Litográfica"	"PP"	"L"	"E307X110.5L"	"ATUN"	"16"	"PP"	1819.54427
+"978"	2015	"Tapas Bebidas"	"PT"	"TAPA"	"TC-P"	"PVC-NM"	"22"	"T"	343.2692535
+"979"	2015	"Litográfica"	"PP"	"L"	"E307X110.5L"	"ATUN"	"16"	"PP"	105.34752
+"980"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	21.4498282666556
+"981"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X900X942"	"DR8"	"20"	"C"	66.875862053352
+"982"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.17X900X1037"	"DR8"	"20"	"C"	53.240885099318
+"983"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C401/315X208L"	"ATUN"	"17"	"B"	1.041000327296
+"984"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C307X110.5L"	"ATUN"	"17"	"A"	598.440832
+"985"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	44.9616615956288
+"986"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	182.844322
+"987"	2015	"Servicios Generales"	"PT"	"TAPA"	"T307EO"	"ATUN"	"22"	"T"	422.2157946114
+"988"	2015	"Linea General Otros"	"PT"	"OTROS"	"CJ"	"F"	"16"	"B"	83.499906327296
+"989"	2015	"Compras e Importaciones"	"PT"	"TAPA"	"TOVAL16"	"SARDINA"	"23"	"T"	5850.5228193273
+"990"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.18X851X831"	"DR8"	"NPI"	"C"	19.297779099318
+"991"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.20X893X902.6"	"T4"	"NPI"	"C"	86.279122099318
+"992"	2015	"Litográfica"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	71.446904999614
+"993"	2015	"Litográfica"	"PP"	"R"	"C211X106L-308L-413R"	"ATUN"	"18"	"PP"	302.296873
+"994"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T214"	"PALMITO"	"18"	"T"	140.75671460125
+"995"	2015	"Sanitarios Embutidos"	"PT"	"TAPA"	"T211"	"ATUN"	"20"	"T"	161.304677327296
+"996"	2015	"Litográfica"	"PT"	"TAPA"	"T315"	"PALMITO"	"22"	"T"	123.47181949352
+"997"	2015	"Comercialización"	"PT"	"L"	"E307X112L"	"ATUN"	"16"	"T"	19.773229999614
+"998"	2015	"Litográfica"	"PT"	"TAPA"	"T603"	"ATUN"	"26"	"T"	40.7033054636606
+"999"	2015	"Sanitarios Soldadura"	"PT"	"L"	"C211X106L"	"ATUN"	"17"	"A"	105.830226
+"1000"	2015	"Compras e Importaciones"	"PP"	"OTROS"	"0.28X733X971"	"T5"	"20"	"C"	177.404754099318
